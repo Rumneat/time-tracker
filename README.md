@@ -3,6 +3,6 @@ Java (Maven) application for tracking time on the job
 
 ## Purpose
 
-This is a demo REPO
+This is a demo a REPO
 
 Time tracker
